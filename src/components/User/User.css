@@ -1,0 +1,13 @@
+.user-container{
+    display: flex;
+}
+.profile{
+    width: 75%;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 15px;
+    border-bottom: 1px solid lightgrey;
+}
+.cart{
+    border-left: 1px solid lightgray;  
+}

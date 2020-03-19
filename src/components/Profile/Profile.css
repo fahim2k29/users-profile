@@ -1,0 +1,29 @@
+.profile img{
+    height: 180px;
+    width: 200px;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.pr2{
+    display: flex;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-left: 60px;
+}
+.profile-name{
+    margin-left: 20px;
+}
+.button {
+    background-color: #daa520;
+    width: 120px;
+    height: 35px;
+    border: 1px solid #636262;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.button:hover{
+    background-color: yellowgreen;
+    font-size: 20px;
+}
